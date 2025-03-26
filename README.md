@@ -31,7 +31,6 @@ Throughout the virtual internship, I have completed a series of tasks, implement
 ## Getting Started
 To explore the solutions and projects in this repository, you can clone the repository locally:
 
-``git clone https://github.com/priyankaChandramohan/KPMG-AU-Data-Analytics-virtual-internship.git``
 
 Feel free to navigate through the notebooks and visualizations to understand the workflow and the insights derived from the data.
 
